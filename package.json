@@ -1,0 +1,16 @@
+{
+  "name": "assignment-qr-code-den",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "webdev hw6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "csk2183",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "qr-image": "^3.2.0"
+  }
+}
